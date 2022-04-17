@@ -78,7 +78,7 @@ Because 2015 and 2016 are the only years with data for every month, visualizing 
 
 A Revised *Outcomes vs Funding Goal* chart with converted currency values could be created. As previously mentioned [here](https://github.com/TheodoraNell/Kickstarter-analysis#inconsistent-units-across-datapoints), another column could be added to the datasheet with goals converted to USD with current exchange rates in order to recreate the original *Outcomes vs Funding Goal* line graph in [this section](https://github.com/TheodoraNell/Kickstarter-analysis#outcomes-based-on-goals) The values would still be innacurate but the revised chart would partially correct for currencies that typically vary widely from USD. 
 
-Finally, a table showing the relationship between average donations, average number of backers, and outcomes. The goal was to provide insight into the success of some of the higher goal ranges. It also raises the question of there being different types of backer groups represented: large backer groups making relatively small donations and smaller groups making larger donations. 
+Finally, a table showing the relationship between average donations, average number of backers, and outcomes. The goal was to provide insight into the success of some of the higher goal ranges. It also raises the question of there being different types of backer groups represented: large backer groups making relatively small donations and smaller groups making larger donations. ("Count of Goal" represents how many campaings had that specific goal)
 ![Funding_Goals_vs_Backers_Table](https://user-images.githubusercontent.com/99051640/162849283-e1ae3577-8e26-4d12-be67-c5a03d5731c9.png)
 
 
