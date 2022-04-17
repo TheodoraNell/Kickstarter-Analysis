@@ -1,7 +1,7 @@
 # **Kickstarting with Excel**
 
 ## Overview of Project
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on a set of Kickstarter Campain data in order to uncover possible trends. Using models to explore the factors correlated to successful and unsuccessful outcomes.
 
 ### Purpose
 This analysis explores how past Kickstarter campaigns performed in relation to their launch dates and funding goals in order to povide insight for future campaign planning. It focuses primarily on campaigns for plays and/or within the theater category. 
